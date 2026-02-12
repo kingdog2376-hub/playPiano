@@ -366,6 +366,7 @@ PianoSequencer (Thread)
 - 原始项目：[A4foolU/python-piano](https://github.com/A4foolU)
 - 音频引擎：[Pygame](https://www.pygame.org/)
 - 采样资源：Salamander Grand Piano
+- 特别致谢：Bilibili--Customshop_
 
 ---
 
